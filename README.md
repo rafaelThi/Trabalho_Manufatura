@@ -64,7 +64,7 @@ Rafael Pereira de Melo   0791811011
 
 Vinicius Cavalcante   0791811011 
 
-#Objetivos: Desenvolver um Sistema de Gerenciamento de Dados sobre Cartas de Pokémon, Capaz de: 
+## Objetivos: Desenvolver um Sistema de Gerenciamento de Dados sobre Cartas de Pokémon, Capaz de: 
 
  -Pesquisar todas as cartas de Pokemon cadastrados; 
 
@@ -86,7 +86,7 @@ Vinicius Cavalcante   0791811011
 
  -Apagar uma Carta do Banco. 
 
-#Execução: 
+## Execução: 
 
 Utilizando o SQLite Online, fizemos um banco de dados com o nome “pokemon.db” que contém os atributos id, nome, imagem, série, coleção, raridade e quantidade de cada uma das cartas. O banco foi populado com algumas cartas de pokémon para teste do código. 
 
