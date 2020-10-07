@@ -2,19 +2,19 @@
 ![logoCPS](http://fatecsantoandre.edu.br/images/logo_centro.png)
 ![logoGoverno](http://fatecsantoandre.edu.br/images/logo_sp.png)
 
-#Project Developed at FATEC Santo André 
+# Project Developed at FATEC Santo André 
 
-#Integrated Manufacturing Systems Class 
+# Integrated Manufacturing Systems Class 
 
-#Teacher Murilo Zanini de Carvalho 
+## Teacher Murilo Zanini de Carvalho 
 
-#Team N°3:
+## Team N°3:
 Bianca Bianchi          0791811011
 Lucas Abrahão		0791721010
 Rafael de Melo 		0791811043
 Vinicius Cavalcante	0791721021
 
-#Objectives: Develop a Data management system about Pokemon cards, able to: 
+## Objectives: Develop a Data management system about Pokemon cards, able to: 
 
  -Research the Pokemon Cards Available; 
 
@@ -36,7 +36,7 @@ Vinicius Cavalcante	0791721021
 
  -Erase a Card from the Base. 
 
-#Execution: 
+## Execution: 
 
 Using SQLite Online, we create a Data Base named “pokemon.db” which contains the attributes ID, Name, Image, Series Code, Collection, Rarity and Quantity of Cards. 
 
@@ -48,13 +48,13 @@ The final code contains a user interface on terminal, where it contains a menu a
 
 -------------------------------------------------------Texto em Português Br-------------------------------------------------------
 
-#Trabalho Desenvolvido pela FATEC Santo André 
+# Trabalho Desenvolvido pela FATEC Santo André 
 
-#Aula de Sistemas Integrados de Manufatura 
+## Aula de Sistemas Integrados de Manufatura 
 
-#Professor Murilo Zanini de Carvalho  
+## Professor Murilo Zanini de Carvalho  
 
-#Equipe 3 : 
+## Equipe 3 : 
 
 Bianca Bianchi   0791811011 
 
